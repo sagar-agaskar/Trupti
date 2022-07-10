@@ -1,1 +1,1 @@
-<p>This is index file.</p>
+<p>This is index file on bug1 branch.</p>
